@@ -1,0 +1,12 @@
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\bin\Debug\capaEntidad.xml
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\obj\Debug\capaEntidad.vbprojAssemblyReference.cache
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\obj\Debug\capaEntidad.Resources.resources
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\obj\Debug\capaEntidad.vbproj.GenerateResource.cache
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\obj\Debug\capaEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\obj\Debug\capaEntidad.vbproj.CopyComplete
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\obj\Debug\capaEntidad.xml
+C:\Users\Eberth\Videos\Boni\CRUDFORMULARIO-master\capaEntidad\obj\Debug\capaEntidad.pdb
